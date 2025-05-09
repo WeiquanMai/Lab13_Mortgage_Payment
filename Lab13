@@ -3,8 +3,7 @@ CSC-237- C++
 Project Name: Mortgage Payment
 Student: Weiquan Mai
 Date: April 3, 2025
-Description: 
-Program asks for mortgage information, and calculates monthly payment as well as total amount paid over the lifetime of the loan.
+Description: Program asks for mortgage information, and calculates monthly payment as well as total amount paid over the lifetime of the loan.
 Program also outputs the information into an output file. 
 The mortgage class' member functions are declared in Mortgage.h file and defined in Mortgage.cpp file.
 Program should be compiled with Mortgage.cpp and Mortgage.h files.
